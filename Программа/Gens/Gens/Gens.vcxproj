@@ -127,7 +127,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="APU.cpp" />
+    <ClCompile Include="Auto-update Manager.cpp" />
+    <ClCompile Include="Bios.cpp" />
+    <ClCompile Include="Cheat Code.cpp" />
+    <ClCompile Include="Configuration Manager.cpp" />
+    <ClCompile Include="Debugging Tools.cpp" />
+    <ClCompile Include="Frame Limiter.cpp" />
+    <ClCompile Include="Game Database.cpp" />
+    <ClCompile Include="Game Genie Emulator.cpp" />
     <ClCompile Include="Gens.cpp" />
+    <ClCompile Include="GPU.cpp" />
+    <ClCompile Include="GUI.cpp" />
+    <ClCompile Include="Input Mapper.cpp" />
+    <ClCompile Include="Input Recorder.cpp" />
+    <ClCompile Include="Language Localization.cpp" />
+    <ClCompile Include="MMU.cpp" />
+    <ClCompile Include="Netplay Lobby.cpp" />
+    <ClCompile Include="Network Play.cpp" />
+    <ClCompile Include="Rewind Feature.cpp" />
+    <ClCompile Include="ROM.cpp" />
+    <ClCompile Include="Save File Converter.cpp" />
+    <ClCompile Include="Save.cpp" />
+    <ClCompile Include="Screen Capture.cpp" />
+    <ClCompile Include="Sound Blaster.cpp" />
+    <ClCompile Include="Video Renderer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

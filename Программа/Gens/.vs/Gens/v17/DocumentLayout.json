@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Gens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|solutionrelative:Gens\\Gens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Gens.cpp",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Gens.cpp",
-              "RelativeDocumentMoniker": "Gens\\Gens.cpp",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Gens.cpp",
-              "RelativeToolTip": "Gens\\Gens.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T09:00:21.678Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
