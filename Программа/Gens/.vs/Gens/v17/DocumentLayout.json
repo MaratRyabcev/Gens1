@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Configuration Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|solutionrelative:Gens\\Configuration Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Debugging Tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|solutionrelative:Gens\\Debugging Tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Auto-update Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|solutionrelative:Gens\\Auto-update Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\APU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0272AD82-9719-41C2-B05E-8389B7E13879}|Gens\\Gens.vcxproj|solutionrelative:Gens\\APU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Debugging Tools.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Debugging Tools.cpp",
+              "RelativeDocumentMoniker": "Gens\\Debugging Tools.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Debugging Tools.cpp",
+              "RelativeToolTip": "Gens\\Debugging Tools.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T10:03:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Configuration Manager.cpp",
+              "RelativeDocumentMoniker": "Gens\\Configuration Manager.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Configuration Manager.cpp",
+              "RelativeToolTip": "Gens\\Configuration Manager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T10:03:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto-update Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Auto-update Manager.cpp",
+              "RelativeDocumentMoniker": "Gens\\Auto-update Manager.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\Auto-update Manager.cpp",
+              "RelativeToolTip": "Gens\\Auto-update Manager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T10:03:07.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APU.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\APU.cpp",
+              "RelativeDocumentMoniker": "Gens\\APU.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0430\u0442\\Desktop\\Gens1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\Gens\\Gens\\APU.cpp",
+              "RelativeToolTip": "Gens\\APU.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T10:03:06.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
